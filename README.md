@@ -1,2 +1,1 @@
-# ScreenTimeTracker
-screen timer tracker for Windows
+*ScreenTimeTracker (C# Project)
